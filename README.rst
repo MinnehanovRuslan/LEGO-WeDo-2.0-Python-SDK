@@ -2,6 +2,8 @@
 Python SDK for LEGO WeDo 2.0
 ============================
 
+Ветка содержит перевод коментариев на русский язык
+
 A Python SDK, which provides an API for connecting and controlling LEGO WeDo 2.0 Smarthubs.  
 
 Requires BLED112 Bluetooth LE module.
